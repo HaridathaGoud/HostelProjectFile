@@ -1,0 +1,189 @@
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\appsettings.Development.json
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\appsettings.json
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\HostelProject.exe
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\HostelProject.deps.json
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\HostelProject.runtimeconfig.json
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\HostelProject.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\HostelProject.pdb
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SAI\HostelProject\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.csproj.AssemblyReference.cache
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.AssemblyInfoInputs.cache
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.AssemblyInfo.cs
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.csproj.CoreCompileInputs.cache
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.MvcApplicationPartsAssemblyInfo.cs
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.MvcApplicationPartsAssemblyInfo.cache
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.HostelProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.build.HostelProject.props
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HostelProject.props
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HostelProject.props
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\scopedcss\bundle\HostelProject.styles.css
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.csproj.CopyComplete
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.dll
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\refint\HostelProject.dll
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.pdb
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\HostelProject.genruntimeconfig.cache
+D:\SAI\HostelProject\HostelProject\obj\Debug\net6.0\ref\HostelProject.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.csproj.AssemblyReference.cache
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.AssemblyInfoInputs.cache
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.AssemblyInfo.cs
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.csproj.CoreCompileInputs.cache
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\refint\HostelProject.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.pdb
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\appsettings.json
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\HostelProject.exe
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\HostelProject.deps.json
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\HostelProject.runtimeconfig.json
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\HostelProject.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\HostelProject.pdb
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.HostelProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.build.HostelProject.props
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HostelProject.props
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HostelProject.props
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\scopedcss\bundle\HostelProject.styles.css
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.csproj.CopyComplete
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\HostelProject.genruntimeconfig.cache
+D:\Hostel\Hostel development_WebApi\HostelProject\obj\Debug\net6.0\ref\HostelProject.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\appsettings.json
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\HostelProject.exe
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\HostelProject.deps.json
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\HostelProject.runtimeconfig.json
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\HostelProject.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\HostelProject.pdb
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.csproj.AssemblyReference.cache
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.AssemblyInfoInputs.cache
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.AssemblyInfo.cs
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.csproj.CoreCompileInputs.cache
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.HostelProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.build.HostelProject.props
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HostelProject.props
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HostelProject.props
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\scopedcss\bundle\HostelProject.styles.css
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.csproj.CopyComplete
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\refint\HostelProject.dll
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.pdb
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\HostelProject.genruntimeconfig.cache
+C:\Users\ziraffuser\Desktop\GitClone\GitClone\HostelProject\obj\Debug\net6.0\ref\HostelProject.dll

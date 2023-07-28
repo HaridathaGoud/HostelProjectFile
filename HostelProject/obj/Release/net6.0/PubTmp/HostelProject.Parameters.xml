@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="hostelManagementapi" tags="IisApp">
+<<<<<<< HEAD
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\SATHYA\\Desktop\\VedaProject\\WebApiProject\\HostelProject\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+=======
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ziraffuser\\Desktop\\GitClone\\GitClone\\HostelProject\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+>>>>>>> b94b183806706cd1f1ec2a6b8b4674cd68f7e242
+  </parameter>
+</parameters>
